@@ -19,6 +19,7 @@ public class HelloServlet extends HttpServlet { //implements Servlet {
 	
 	public void init() {
 		 System.out.println("I am HelloServlet init() method");
+		 System.out.println("I am HelloServlet init() method");
 	}
 
 	@Override
